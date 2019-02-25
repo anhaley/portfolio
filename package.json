@@ -1,0 +1,49 @@
+{
+    "title": "Small Business",
+    "name": "startbootstrap-small-business",
+    "version": "4.1.2",
+    "description": "A small business HTML template built with Bootstrap",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://startbootstrap.com/template-overviews/small-business",
+    "bugs": {
+        "url": "https://github.com/BlackrockDigital/startbootstrap-small-business/issues",
+        "email": "feedback@startbootstrap.com"
+    },
+    "license": "MIT",
+    "author": "Start Bootstrap",
+    "contributors": [
+        "David Miller (http://davidmiller.io/)"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BlackrockDigital/startbootstrap-small-business.git"
+    },
+    "dependencies": {
+        "ansi-regex": "^4.0.0",
+        "bootstrap": "4.2.1",
+        "brace-expansion": "^1.1.11",
+        "inherits": "^2.0.3",
+        "jquery": "3.3.1",
+        "minimatch": "^3.0.4",
+        "minimist": "^1.2.0",
+        "minipass": "^2.3.5",
+        "mkdirp": "^0.5.1",
+        "once": "^1.4.0",
+        "popper.js": "^1.14.7",
+        "safe-buffer": "^5.1.2",
+        "string-width": "^3.0.0",
+        "wrappy": "^1.0.2",
+        "yallist": "^3.0.3"
+    },
+    "devDependencies": {
+        "browser-sync": "2.26.3",
+        "gulp": "^4.0.0"
+    }
+}
