@@ -26,7 +26,7 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-small-business.git"
     },
     "dependencies": {
-        "ansi-regex": "^4.0.0",
+        "ansi-regex": "^6.0.1",
         "bootstrap": "4.2.1",
         "brace-expansion": "^1.1.11",
         "inherits": "^2.0.3",
